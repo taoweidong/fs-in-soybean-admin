@@ -82,6 +82,7 @@ git clone https://github.com/honghuangdc/soybean-admin.git
 - 安装依赖
 
 ```bash
+环境：16.19.1
 pnpm i
 ```
 
